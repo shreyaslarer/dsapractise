@@ -5,7 +5,7 @@ This repository contains small C++ programs for basic data-structure and sorting
 It is also a structured repository for my **Data Structures and Algorithms** practice, maintained for interview preparation and problem-solving improvement.
 
 ## Files included
-
+- `quicksort.cpp`
 - `bubblesort.cpp`
 - `insertionsort.cpp`
 - `selectionsort.cpp`
