@@ -6,6 +6,7 @@ It is also a structured repository for my **Data Structures and Algorithms** pra
 
 ## Files included
 - `quicksort.cpp`
+- `mergesort.cpp`
 - `bubblesort.cpp`
 - `insertionsort.cpp`
 - `selectionsort.cpp`
