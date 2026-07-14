@@ -1,0 +1,6 @@
+Step 1 = Listen to the problem carefully.
+Step 2 = Draw an example like Recursive tree, Tree ect...
+Step 3 = Start with Brute Force Approach first.
+Step 4 = Go with the Optimal Approach.
+Step 5 = Write the  pseudocode first.
+Step 6 = Implement the pseudocode in thr form of the code.
