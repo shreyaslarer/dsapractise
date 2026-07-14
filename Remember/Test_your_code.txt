@@ -1,0 +1,8 @@
+1. Conceptual Test = Just read and analyze what each line of the code does.
+2. Loop Check = Make sure about the starting of the loop from 0 or from 1 double chek it.
+3. Hot Spots = a. Base Cases in the Recursive code.
+               b. Integer Division.
+               c. Null Nodes in the Binary Trees.
+               d. Start and End of the Iteration in the Linked List.
+4. Small Test Cases = Always test with the small test cases.
+5. Special Cases = Test the code againes the Null or Single element like (0 & 1).
