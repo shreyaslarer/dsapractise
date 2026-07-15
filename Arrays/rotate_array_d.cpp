@@ -47,3 +47,14 @@ int main(){
 
     return 0;
 }
+
+//Without using the reverse function, we can implement the left rotation of an array by using a temporary array to store the rotated elements. Here's how you can do it:
+void reverseArray(vector<int> &arr, int start, int end){
+while(start <= end){
+    int temp = arr[start];
+    arr[start] = arr[end];
+    arr[end] = temp;
+    start++;
+    end--;
+}
+}
