@@ -50,6 +50,7 @@ I built this repository to:
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ I built this repository to:
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
