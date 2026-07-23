@@ -43,6 +43,7 @@ I built this repository to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -51,6 +52,7 @@ I built this repository to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
