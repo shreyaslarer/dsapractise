@@ -44,6 +44,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
+| [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
@@ -58,6 +59,7 @@ I built this repository to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,4 +70,8 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
