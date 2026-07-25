@@ -53,6 +53,7 @@ I built this repository to:
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ I built this repository to:
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,9 +94,14 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
