@@ -102,9 +102,14 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
