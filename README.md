@@ -45,22 +45,32 @@ I built this repository to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,17 +84,40 @@ I built this repository to:
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
