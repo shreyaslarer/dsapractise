@@ -62,6 +62,7 @@ I built this repository to:
 | [0283-move-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ I built this repository to:
 | [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
