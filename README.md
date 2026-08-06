@@ -60,6 +60,7 @@ I built this repository to:
 | [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ I built this repository to:
 | [0128-longest-consecutive-sequence](https://github.com/shreyaslarer/dsapractise/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0229-majority-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyaslarer/dsapractise/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
