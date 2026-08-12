@@ -100,6 +100,7 @@ I built this repository to:
 | [0189-rotate-array](https://github.com/shreyaslarer/dsapractise/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +151,9 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
