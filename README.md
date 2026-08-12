@@ -136,6 +136,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +150,8 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
