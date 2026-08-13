@@ -126,6 +126,7 @@ I built this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shreyaslarer/dsapractise/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/shreyaslarer/dsapractise/tree/main/0189-rotate-array/) | Medium |
@@ -137,6 +138,7 @@ I built this repository to:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shreyaslarer/dsapractise/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shreyaslarer/dsapractise/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
@@ -156,6 +158,7 @@ I built this repository to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shreyaslarer/dsapractise/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyaslarer/dsapractise/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shreyaslarer/dsapractise/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0206-reverse-linked-list/) | Easy |
