@@ -47,6 +47,7 @@ I built this repository to:
 | [0015-3sum](https://github.com/shreyaslarer/dsapractise/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/shreyaslarer/dsapractise/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -88,6 +89,7 @@ I built this repository to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -98,6 +100,7 @@ I built this repository to:
 | [0018-4sum](https://github.com/shreyaslarer/dsapractise/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyaslarer/dsapractise/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/shreyaslarer/dsapractise/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
@@ -188,5 +191,10 @@ I built this repository to:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0234-palindrome-linked-list/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
