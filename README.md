@@ -66,6 +66,7 @@ I built this repository to:
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
