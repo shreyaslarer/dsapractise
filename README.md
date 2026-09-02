@@ -48,6 +48,7 @@ I built this repository to:
 | [0018-4sum](https://github.com/shreyaslarer/dsapractise/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/shreyaslarer/dsapractise/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/shreyaslarer/dsapractise/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyaslarer/dsapractise/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shreyaslarer/dsapractise/tree/main/0055-jump-game/) | Medium |
@@ -221,5 +222,6 @@ I built this repository to:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/shreyaslarer/dsapractise/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
