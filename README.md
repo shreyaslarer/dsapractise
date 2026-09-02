@@ -97,6 +97,7 @@ I built this repository to:
 | [0055-jump-game](https://github.com/shreyaslarer/dsapractise/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +214,12 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
