@@ -141,6 +141,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/shreyaslarer/dsapractise/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyaslarer/dsapractise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -152,6 +153,7 @@ I built this repository to:
 | [0002-add-two-numbers](https://github.com/shreyaslarer/dsapractise/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/shreyaslarer/dsapractise/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shreyaslarer/dsapractise/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/shreyaslarer/dsapractise/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/shreyaslarer/dsapractise/tree/main/0189-rotate-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
@@ -228,4 +230,8 @@ I built this repository to:
 | ------- | ------- |
 | [0046-permutations](https://github.com/shreyaslarer/dsapractise/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/shreyaslarer/dsapractise/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
