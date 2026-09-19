@@ -1,55 +1,39 @@
 class Solution {
 public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
 
-    bool searchRow(vector<vector<int>>& mat, int target, int row) {
+        //First thing the matrix is sorted in row wise not in the column wise
+        //Soeted means we can apply BS
+        //Here first we need to appply BS on the rows to find the exact row where the target lies
+        //Then we need to apply the BS on the row that we get
 
-        int n = mat[0].size();
-        int st = 0;
-        int ed = n - 1;
+        //So the apply of BS on row will take log(row) and after on the col we will get log(col) that is log(row*col)
 
-        while (st <= ed) {
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-            int mid = st + (ed - st) / 2;
+        int top = 0, bottom=m-1,row=-1;
 
-            if (target == mat[row][mid]) {
-                return true;
-            }
-            else if (target > mat[row][mid]) {
-                st = mid + 1;
-            }
-            else {
-                ed = mid - 1;
-            }
-        }
+        while(top<=bottom){
+            int mid=top+(bottom-top)/2;
 
-        return false;
-    }
-
-    bool searchMatrix(vector<vector<int>>& mat, int target) {
-
-        int m = mat.size();
-        int n = mat[0].size();
-
-        int stRow = 0;
-        int edRow = m - 1;
-
-        while (stRow <= edRow) {
-
-            int midRow = stRow + (edRow - stRow) / 2;
-
-            if (target >= mat[midRow][0] &&
-                target <= mat[midRow][n - 1]) {
-
-                return searchRow(mat, target, midRow);
-            }
-            else if (target > mat[midRow][n - 1]) {
-                stRow = midRow + 1;
-            }
-            else {
-                edRow = midRow - 1;
+            if(matrix[mid][0]<=target && target<= matrix[mid][n-1]){
+                row = mid;
+                break;
+            }else if(target<matrix[mid][0]){
+                bottom = mid-1;
+            }else{
+                top = mid+1;
             }
         }
-
-        return false;
+        if(row==-1) return false;
+        int low=0, high=n-1;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            if(matrix[row][mid]==target)return true;
+            else if(matrix[row][mid]<target) low = mid+1;
+            else high = mid-1;
+        }return false;
+        
     }
 };
