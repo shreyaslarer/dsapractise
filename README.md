@@ -75,6 +75,7 @@ I built this repository to:
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -159,6 +160,7 @@ I built this repository to:
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -254,5 +257,6 @@ I built this repository to:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
