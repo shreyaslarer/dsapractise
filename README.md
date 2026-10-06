@@ -79,6 +79,7 @@ I built this repository to:
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -94,6 +95,7 @@ I built this repository to:
 | [0229-majority-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyaslarer/dsapractise/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ I built this repository to:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0229-majority-element-ii/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,5 +268,6 @@ I built this repository to:
 | [0209-minimum-size-subarray-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
