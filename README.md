@@ -94,6 +94,7 @@ I built this repository to:
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyaslarer/dsapractise/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/shreyaslarer/dsapractise/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0229-majority-element-ii/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -253,6 +254,7 @@ I built this repository to:
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/shreyaslarer/dsapractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ I built this repository to:
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyaslarer/dsapractise/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shreyaslarer/dsapractise/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
