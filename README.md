@@ -79,6 +79,7 @@ I built this repository to:
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/shreyaslarer/dsapractise/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -211,6 +212,7 @@ I built this repository to:
 | [0238-product-of-array-except-self](https://github.com/shreyaslarer/dsapractise/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shreyaslarer/dsapractise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/shreyaslarer/dsapractise/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyaslarer/dsapractise/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
