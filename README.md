@@ -118,6 +118,7 @@ I built this repository to:
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ I built this repository to:
 | [0283-move-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shreyaslarer/dsapractise/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
+| [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
@@ -261,6 +263,7 @@ I built this repository to:
 | [0125-valid-palindrome](https://github.com/shreyaslarer/dsapractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
