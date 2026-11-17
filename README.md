@@ -81,6 +81,7 @@ I built this repository to:
 | [0704-binary-search](https://github.com/shreyaslarer/dsapractise/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/shreyaslarer/dsapractise/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/shreyaslarer/dsapractise/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shreyaslarer/dsapractise/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyaslarer/dsapractise/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -244,6 +245,7 @@ I built this repository to:
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,4 +312,8 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaslarer/dsapractise/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
