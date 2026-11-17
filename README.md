@@ -58,6 +58,7 @@ I built this repository to:
 | [0073-set-matrix-zeroes](https://github.com/shreyaslarer/dsapractise/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shreyaslarer/dsapractise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/shreyaslarer/dsapractise/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/shreyaslarer/dsapractise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/shreyaslarer/dsapractise/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -243,6 +244,7 @@ I built this repository to:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaslarer/dsapractise/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
@@ -250,6 +252,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ I built this repository to:
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/shreyaslarer/dsapractise/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
