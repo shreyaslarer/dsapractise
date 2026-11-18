@@ -249,6 +249,7 @@ I built this repository to:
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/shreyaslarer/dsapractise/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@ I built this repository to:
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/shreyaslarer/dsapractise/tree/main/0901-online-stock-span/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,4 +326,12 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/shreyaslarer/dsapractise/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/shreyaslarer/dsapractise/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
