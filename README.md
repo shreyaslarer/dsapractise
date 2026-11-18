@@ -246,6 +246,7 @@ I built this repository to:
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
@@ -253,11 +254,13 @@ I built this repository to:
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyaslarer/dsapractise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyaslarer/dsapractise/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/shreyaslarer/dsapractise/tree/main/0055-jump-game/) | Medium |
+| [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
@@ -272,6 +275,7 @@ I built this repository to:
 | [0020-valid-parentheses](https://github.com/shreyaslarer/dsapractise/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/shreyaslarer/dsapractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
