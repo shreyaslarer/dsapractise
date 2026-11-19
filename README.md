@@ -122,6 +122,7 @@ I built this repository to:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaslarer/dsapractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shreyaslarer/dsapractise/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ I built this repository to:
 | [0234-palindrome-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shreyaslarer/dsapractise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/shreyaslarer/dsapractise/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/shreyaslarer/dsapractise/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
@@ -264,6 +266,7 @@ I built this repository to:
 | [0055-jump-game](https://github.com/shreyaslarer/dsapractise/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyaslarer/dsapractise/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/shreyaslarer/dsapractise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/shreyaslarer/dsapractise/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
@@ -280,6 +283,7 @@ I built this repository to:
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shreyaslarer/dsapractise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/shreyaslarer/dsapractise/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -322,6 +326,7 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaslarer/dsapractise/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/shreyaslarer/dsapractise/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
