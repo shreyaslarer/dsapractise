@@ -352,6 +352,7 @@ I built this repository to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -362,6 +363,7 @@ I built this repository to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -373,6 +375,7 @@ I built this repository to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -393,4 +396,12 @@ I built this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
