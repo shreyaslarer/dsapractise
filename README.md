@@ -358,6 +358,7 @@ I built this repository to:
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +371,7 @@ I built this repository to:
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,12 +385,14 @@ I built this repository to:
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
