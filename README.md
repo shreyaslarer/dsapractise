@@ -284,6 +284,7 @@ I built this repository to:
 | [0020-valid-parentheses](https://github.com/shreyaslarer/dsapractise/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/shreyaslarer/dsapractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0402-remove-k-digits](https://github.com/shreyaslarer/dsapractise/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyaslarer/dsapractise/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shreyaslarer/dsapractise/tree/main/0647-palindromic-substrings/) | Medium |
@@ -294,6 +295,7 @@ I built this repository to:
 | ------- | ------- |
 | [0046-permutations](https://github.com/shreyaslarer/dsapractise/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shreyaslarer/dsapractise/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +355,7 @@ I built this repository to:
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -364,6 +367,7 @@ I built this repository to:
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -376,6 +380,7 @@ I built this repository to:
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
