@@ -9,24 +9,39 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        if(root == NULL){
-            return {};
+
+        TreeNode* curr = root;
+        vector<int> ans;
+
+        while(curr != NULL) {
+
+            if(curr->left == NULL) {
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            else {
+                TreeNode* ip = curr->left;
+
+                while(ip->right != NULL && ip->right != curr) {
+                    ip = ip->right;
+                }
+
+                if(ip->right == NULL) {
+                    ip->right = curr;
+                    curr = curr->left;
+                }
+                else {
+                    ip->right = NULL;
+                    ans.push_back(curr->val);
+                    curr = curr->right;
+                }
+            }
         }
 
-        vector<int> result;
-
-
-        vector<int> left = inorderTraversal(root->left);
-        result.insert(result.end(), left.begin(), left.end());
-
-        result.push_back(root->val);
-
-        vector<int>right = inorderTraversal(root->right);
-        result.insert(result.end(),  right.begin(), right.end());
-
-        return result;        
+        return ans;
     }
 };
