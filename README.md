@@ -358,6 +358,7 @@ I built this repository to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -372,6 +373,7 @@ I built this repository to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -387,6 +389,7 @@ I built this repository to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyaslarer/dsapractise/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shreyaslarer/dsapractise/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -398,6 +401,7 @@ I built this repository to:
 | [0100-same-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyaslarer/dsapractise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
