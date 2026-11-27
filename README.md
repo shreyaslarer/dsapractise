@@ -369,6 +369,7 @@ I built this repository to:
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyaslarer/dsapractise/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@ I built this repository to:
 | [0543-diameter-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyaslarer/dsapractise/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ I built this repository to:
 | [0572-subtree-of-another-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyaslarer/dsapractise/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +415,7 @@ I built this repository to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyaslarer/dsapractise/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,4 +442,5 @@ I built this repository to:
 | [0098-validate-binary-search-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyaslarer/dsapractise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyaslarer/dsapractise/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
